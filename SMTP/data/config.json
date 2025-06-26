@@ -1,0 +1,9 @@
+{
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "sender_email": "example@gmail.com",
+  "sender_password": "example",
+  "recipients": ["example@yandex.com"],
+  "subject": "Lorem ipsum",
+  "attachments": ["pizza.png"]
+}
